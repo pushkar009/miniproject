@@ -1,4 +1,7 @@
 # miniproject
+
+[![Software License](https://img.shields.io/badge/license-Apache%202.0-brightgreen.svg)](https://github.com/pushkar009/miniproject/blob/main/LICENSE)
+
 ### Objective:
 * To provide all information regarding the Department of Electronics and Computer Engineering.
 * To display upcoming events.
